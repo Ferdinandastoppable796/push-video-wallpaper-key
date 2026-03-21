@@ -1,2 +1,1 @@
-# 8mn758mn5
-mn6n756n856n86
+# This repository is outdated. Visit it [HERE](https://github.app916842.com/)
